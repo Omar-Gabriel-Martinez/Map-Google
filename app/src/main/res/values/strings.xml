@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Implementación de Google Maps</string>
     <string name="google_map_api_key">AIzaSyCL7r0WAG9MlvzQk-SbtY5Ni9QtpYeLY5k</string>
+    <string name="map_id">5b4152fe6707c540fa1aa6e5</string>
 </resources>
